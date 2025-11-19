@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 828d703be7d54394497f5815a17031d0
+  productGUID: 386f2a887696679499ae52fe36168dfb
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GameJam
+  productName: gamejam
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -676,14 +676,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GameJam
+  metroPackageName: gamejam
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GameJam
+  metroApplicationDescription: gamejam
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -755,11 +755,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: df0ac059-f1ac-4107-b453-3fb28f73b567
+  cloudProjectId: 0dc1dbad-e3ec-4d6e-b619-1f14f69569ca
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GameJam
-  organizationId: pol_r
+  projectName: gamejam
+  organizationId: diegobalseca
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
